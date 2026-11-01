@@ -1,7 +1,1 @@
-{
-  "version": "5.80",
-  "code": 121,
-  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.80/LuxGram-v5.80-afat-release.apk",
-  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.80-afat-release.apk",
-  "notes": "نسخه ۵.۸۰ — کانفیگ‌های خودت، داخل خود تلگرام:\n🛰 تونل V2Ray: هر لینک vmess:// یا vless:// یا trojan:// یا ss:// (یا JSON کامل) را در «ابزارها» بچسبان و فعال کن — بدون نصب برنامهٔ اضافه؛ فقط ترافیک خود تلگرام از تونل رد می‌شود\n📋 کانفیگ را از هر کانالی کپی کن؛ موقع افزودن خودکار از کلیپ‌بورد پیدا می‌شود\n🔐 همهٔ فرمت‌های رایج: TLS، Reality، XTLS Vision، WebSocket، gRPC، HTTPUpgrade، h2، استتار tcp+http، شیدوساکس و بلاک‌های base64\n☁️ تونل WARP و تونل V2Ray بی‌سروصدا جای هم را می‌گیرند — هر دو در «ابزارها»"
-}
+{"version": "5.81", "code": 122, "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.81/LuxGram-v5.81-afat-release.apk", "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.81-afat-release.apk", "notes": "نسخه ۵.۸۱ — بخش اتصال، زیر دست همهٔ کانفیگ‌ها:\n🔗 لینک کانفیگ (vmess / vless / trojan / ss) را داخل چت لمس کن — لوکس‌گرام باز می‌شود و بخش اتصال V2Ray با همان کانفیگ پر می‌شود؛ فقط «ذخیره و اتصال» را بزن\n📋 راه قبلی هم سر جایش است: کپی کن و از «ابزارها» بچسبان — حتی چند کانفیگ با هم\n🛍 «امکانات لوکس‌گرام» در تنظیمات حالا مستقیم به صفحهٔ دانلود لوکس‌گرام در اپ‌استور نوین وصل می‌شود"}
