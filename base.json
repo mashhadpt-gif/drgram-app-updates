@@ -1,0 +1,8 @@
+{
+  "base": "21f7d109",
+  "upstreamVersion": "13.2.2",
+  "upstreamCode": 7303,
+  "luxgramVersion": "5.84",
+  "syncedAt": "2026-11-12",
+  "note": "LuxGram base sync pointer — updated by every upstream sync; the weekly checker compares upstream HEAD vs base"
+}
