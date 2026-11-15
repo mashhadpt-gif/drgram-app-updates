@@ -1,9 +1,9 @@
 {
-  "version": "5.85",
-  "code": 126,
-  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.85/LuxGram-v5.85-universal-release.apk",
-  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.85-universal-release.apk",
-  "url_arm64": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.85/LuxGram-v5.85-arm64-release.apk",
-  "mirror_arm64": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.85-arm64-release.apk",
-  "notes": "نسخهٔ ۵٫۸۵ — وعده‌های گزارش شمارهٔ ۱ ادا شد:\n✨ زیبایی‌سازی تصویر محدود و طبیعی‌تر شد\n🔐 پشتیبان‌گیری تایپ‌دار تنظیمات؛ بازیابی دقیق‌تر\n🎙 بازطراحی تنظیمات صدا\n📲 دانلود هوشمند بر اساس معماری دستگاه (arm64 سبک‌تر)\n🛠 چند بهبود جزئی در پایداری"
+  "version": "5.86",
+  "code": 127,
+  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.86/LuxGram-v5.86-universal-release.apk",
+  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.86-universal-release.apk",
+  "url_arm64": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.86/LuxGram-v5.86-arm64-release.apk",
+  "mirror_arm64": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.86-arm64-release.apk",
+  "notes": "نسخهٔ ۵٫۸۶ — چهار خواستهٔ قدیمی، یک‌جا:\n🔍 جستجوی فارسی هوشمند: ي/ی، ك/ک، نیم‌فاصله و اعداد دیگر مهم نیستند\n⏰ لمس طولانی روی پیام ← «یادم بنداز»: ۱ ساعت / امشب / فردا صبح\n🩺 سلامت حساب: کدام قابلیت‌ها روشن‌اند و سقف‌ها چقدر مصرف شده\n📖 حالت مطالعه: متن بزرگ‌تر، فونت وزیر، خط بازتر"
 }
