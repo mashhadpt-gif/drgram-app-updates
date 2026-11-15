@@ -1,7 +1,9 @@
 {
-  "version": "5.84",
-  "code": 125,
-  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.84/LuxGram-v5.84-afat-release.apk",
-  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.84-afat-release.apk",
-  "notes": "نسخهٔ ۵.۸۴ — امتیازت یک‌لمسی شد:\n⭐ پنجرهٔ امتیازدهی جدید — با یک لمس ۵ ستاره به لوکس‌گرام در اپ‌استور ثبت می‌شود\n🤝 آپدیت‌های داخل اپ حالا شمارندهٔ واقعی دانلود صفحهٔ اپ‌استور را بالا می‌برند\n🌍 ترجمهٔ فارسی همهٔ متن‌های تازهٔ هستهٔ ۱۳.۲ تکمیل شد\n🛠 رفع چند باگ جزئی"
+  "version": "5.85",
+  "code": 126,
+  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.85/LuxGram-v5.85-universal-release.apk",
+  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.85-universal-release.apk",
+  "url_arm64": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.85/LuxGram-v5.85-arm64-release.apk",
+  "mirror_arm64": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.85-arm64-release.apk",
+  "notes": "نسخهٔ ۵٫۸۵ — وعده‌های گزارش شمارهٔ ۱ ادا شد:\n✨ زیبایی‌سازی تصویر محدود و طبیعی‌تر شد\n🔐 پشتیبان‌گیری تایپ‌دار تنظیمات؛ بازیابی دقیق‌تر\n🎙 بازطراحی تنظیمات صدا\n📲 دانلود هوشمند بر اساس معماری دستگاه (arm64 سبک‌تر)\n🛠 چند بهبود جزئی در پایداری"
 }
