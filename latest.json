@@ -1,9 +1,9 @@
 {
-  "version": "5.87",
-  "code": 128,
-  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.87/LuxGram-v5.87-universal-release.apk",
-  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.87-universal-release.apk",
-  "url_arm64": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.87/LuxGram-v5.87-arm64-release.apk",
-  "mirror_arm64": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.87-arm64-release.apk",
-  "notes": "نسخهٔ ۵٫۸۷ — دو قابلیت تازه:\n🛡 ضداسپم دعوت: اگر غریبه تورا به گروه/کانال اضافه کند، خودکار خارج می‌شوی\n🎨 خروجی/ورودی تم در گالری استایل: ظاهرت در یک فایل .luxtheme جابه‌جا می‌شود"
+  "version": "5.88",
+  "code": 129,
+  "url": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.88/LuxGram-v5.88-universal-release.apk",
+  "mirror": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.88-universal-release.apk",
+  "url_arm64": "https://github.com/mashhadpt-gif/drgram-app-updates/releases/download/v5.88/LuxGram-v5.88-arm64-release.apk",
+  "mirror_arm64": "https://appstore.novinagancy.ir/downloads/LuxGram-v5.88-arm64-release.apk",
+  "notes": "نسخهٔ ۵٫۸۸ — سه قابلیت تازه + رفع کرش:\n🔎 جستجو با شمارهٔ همراه: پروفایل صاحب شماره بدون افزودن به مخاطبین\n🔌 کلید قطع/وصل تونل روی ویجت پروکسی + ویجت جدید نخوانده‌ها\n🎨 استودیوی تم: اسلایدر رنگ دلخواه با پیش‌نمایش زنده + خروجی .luxtheme"
 }
